@@ -1,2 +1,5 @@
-# moonveilassist.github.io
-Public privacy policies and support pages for Moonveil apps. No application source code or user records.
+# Moonveil public support pages
+
+Only public support, privacy and acknowledgements pages. No app source code, private birth profiles, reading history or credentials.
+
+Site: https://moonveilassist.github.io/
