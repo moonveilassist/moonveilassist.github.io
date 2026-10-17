@@ -1,6 +1,6 @@
-# Moonveil Tarot and Moonveil Astrology
+# Moonveil Tarot, Moonveil Astrology and Moonveil Numerology
 
-Public support, privacy and acknowledgements pages for our two iPhone apps.
+Public support, privacy and acknowledgements pages for our three iPhone apps.
 
 Site: https://moonveilassist.github.io/
 
